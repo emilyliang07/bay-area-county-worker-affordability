@@ -1,0 +1,8 @@
+persona,median_hourly,median_annual,n_with_salary,pct_missing_salary,cities_affordable_of_59
+Teachers,30.02,62452.0,271,33.3,0
+Bus/Transit Operators,31.25,65000.0,12,20.0,0
+Librarians,34.78,72332.0,10,9.1,0
+Social Workers,39.83,82850.0,116,18.9,6
+911 Dispatchers,41.99,87342.0,42,17.6,12
+Law Enforcement,58.4,121482.0,46,29.2,40
+Nurses,70.41,146453.0,533,26.6,53

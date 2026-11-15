@@ -1,0 +1,129 @@
+city,clinic,grocery,transit,has_grocery,has_transit,has_clinic,has_all_essentials
+Atherton,7.0,0.0,22.0,False,True,True,False
+Hillsborough,0.0,0.0,1.0,False,True,False,False
+Los Altos Hills,1.0,0.0,6.0,False,True,True,False
+Portola Valley,13.0,2.0,23.0,True,True,True,True
+Belvedere Tiburon,4.0,1.0,0.0,True,False,True,False
+Ross,0.0,0.0,4.0,False,True,False,False
+Los Altos,59.0,7.0,48.0,True,True,True,True
+Monte Sereno,0.0,0.0,3.0,False,True,False,False
+Woodside,2.0,2.0,13.0,True,True,True,True
+Stinson Beach,0.0,1.0,2.0,True,True,False,False
+Saratoga,22.0,1.0,61.0,True,True,True,True
+Palo Alto,456.0,9.0,227.0,True,True,True,True
+Tiburon,4.0,1.0,23.0,True,True,True,True
+Menlo Park,85.0,12.0,144.0,True,True,True,True
+Burlingame,73.0,3.0,37.0,True,True,True,True
+Cupertino,93.0,7.0,76.0,True,True,True,True
+Kentfield,13.0,1.0,21.0,True,True,True,True
+Piedmont,5.0,0.0,36.0,False,True,True,False
+Alamo,5.0,1.0,11.0,True,True,True,True
+San Carlos,54.0,5.0,63.0,True,True,True,True
+Los Gatos,189.0,10.0,61.0,True,True,True,True
+Belmont,23.0,4.0,75.0,True,True,True,True
+Mill Valley,66.0,4.0,34.0,True,True,True,True
+Larkspur,28.0,0.0,32.0,False,True,True,False
+Millbrae,19.0,5.0,14.0,True,True,True,True
+Redwood City,181.0,18.0,196.0,True,True,True,True
+Lafayette,38.0,5.0,60.0,True,True,True,True
+Orinda,23.0,2.0,50.0,True,True,True,True
+Danville,53.0,3.0,34.0,True,True,True,True
+Corte Madera,44.0,2.0,27.0,True,True,True,True
+Campbell,77.0,10.0,76.0,True,True,True,True
+Saint Helena,22.0,4.0,8.0,True,True,True,True
+Mountain View,182.0,16.0,172.0,True,True,True,True
+San Martin,5.0,2.0,14.0,True,True,True,True
+San Anselmo,20.0,4.0,14.0,True,True,True,True
+Kensington,3.0,2.0,18.0,True,True,True,True
+San Mateo,164.0,21.0,180.0,True,True,True,True
+Sunnyvale,194.0,27.0,249.0,True,True,True,True
+San Francisco,1623.0,309.0,2966.0,True,True,True,True
+Santa Clara,132.0,22.0,217.0,True,True,True,True
+Greenbrae,64.0,3.0,0.0,True,False,True,False
+Kenwood,1.0,0.0,7.0,False,True,True,False
+Moraga,4.0,1.0,8.0,True,True,True,True
+Bodega Bay,0.0,2.0,4.0,True,True,False,False
+Glen Ellen,1.0,3.0,4.0,True,True,True,True
+Sausalito,32.0,5.0,19.0,True,True,True,True
+Montara,1.0,0.0,15.0,False,True,True,False
+Half Moon Bay,14.0,5.0,43.0,True,True,True,True
+Pleasanton,167.0,17.0,239.0,True,True,True,True
+El Granada,1.0,1.0,15.0,True,True,True,True
+Berkeley,260.0,38.0,537.0,True,True,True,True
+Foster City,28.0,1.0,82.0,True,True,True,True
+Geyserville,0.0,1.0,11.0,True,True,False,False
+Fremont,260.0,34.0,390.0,True,True,True,True
+San Ramon,117.0,12.0,79.0,True,True,True,True
+Moss Beach,1.0,0.0,16.0,False,True,True,False
+Pacifica,13.0,9.0,120.0,True,True,True,True
+Morgan Hill,38.0,11.0,58.0,True,True,True,True
+San Jose,916.0,174.0,1440.0,True,True,True,True
+Milpitas,77.0,15.0,141.0,True,True,True,True
+San Bruno,23.0,10.0,102.0,True,True,True,True
+Union City,32.0,12.0,190.0,True,True,True,True
+Penngrove,1.0,1.0,19.0,True,True,True,True
+South San Francisco,43.0,12.0,242.0,True,True,True,True
+San Rafael,170.0,26.0,117.0,True,True,True,True
+Albany,62.0,4.0,37.0,True,True,True,True
+Fairfax,17.0,1.0,13.0,True,True,True,True
+Dublin,60.0,10.0,168.0,True,True,True,True
+Newark,17.0,10.0,109.0,True,True,True,True
+Healdsburg,25.0,5.0,39.0,True,True,True,True
+Daly City,88.0,26.0,245.0,True,True,True,True
+Occidental,4.0,0.0,2.0,False,True,True,False
+Brisbane,3.0,1.0,17.0,True,True,True,True
+Sebastopol,38.0,6.0,36.0,True,True,True,True
+Castro Valley,64.0,9.0,84.0,True,True,True,True
+El Cerrito,22.0,7.0,121.0,True,True,True,True
+Alameda,75.0,23.0,221.0,True,True,True,True
+Angwin,2.0,3.0,0.0,True,False,True,False
+Livermore,68.0,16.0,199.0,True,True,True,True
+Novato,79.0,15.0,129.0,True,True,True,True
+Gilroy,43.0,13.0,91.0,True,True,True,True
+Calistoga,5.0,3.0,7.0,True,True,True,True
+East Palo Alto,8.0,7.0,64.0,True,True,True,True
+Clayton,1.0,1.0,2.0,True,True,True,True
+Yountville,2.0,1.0,7.0,True,True,True,True
+Sonoma,41.0,13.0,39.0,True,True,True,True
+Pleasant Hill,45.0,7.0,40.0,True,True,True,True
+Petaluma,108.0,21.0,185.0,True,True,True,True
+Walnut Creek,291.0,14.0,96.0,True,True,True,True
+Napa,118.0,27.0,182.0,True,True,True,True
+Hayward,89.0,52.0,362.0,True,True,True,True
+San Lorenzo,5.0,6.0,49.0,True,True,True,True
+San Leandro,81.0,34.0,237.0,True,True,True,True
+Windsor,11.0,5.0,97.0,True,True,True,True
+Discovery Bay,0.0,1.0,0.0,True,False,False,False
+Benicia,14.0,4.0,30.0,True,True,True,True
+Martinez,18.0,5.0,74.0,True,True,True,True
+Brentwood,46.0,16.0,32.0,True,True,True,True
+Oakland,540.0,198.0,1543.0,True,True,True,True
+Concord,100.0,30.0,128.0,True,True,True,True
+Pinole,33.0,6.0,61.0,True,True,True,True
+El Sobrante,3.0,4.0,74.0,True,True,True,True
+Santa Rosa,267.0,42.0,462.0,True,True,True,True
+Crockett,1.0,2.0,6.0,True,True,True,True
+Rohnert Park,22.0,10.0,116.0,True,True,True,True
+American Canyon,2.0,2.0,18.0,True,True,True,True
+Hercules,8.0,4.0,68.0,True,True,True,True
+Rodeo,1.0,2.0,23.0,True,True,True,True
+Cotati,6.0,2.0,29.0,True,True,True,True
+Pacheco,1.0,0.0,5.0,False,True,True,False
+Oakley,3.0,6.0,22.0,True,True,True,True
+Cloverdale,3.0,6.0,36.0,True,True,True,True
+Richmond,49.0,42.0,355.0,True,True,True,True
+Vacaville,70.0,18.0,188.0,True,True,True,True
+Forestville,2.0,3.0,10.0,True,True,True,True
+Dixon,7.0,5.0,1.0,True,True,True,True
+Fairfield,80.0,20.0,133.0,True,True,True,True
+Antioch,73.0,17.0,161.0,True,True,True,True
+Monte Rio,0.0,1.0,10.0,True,True,False,False
+Pittsburg,21.0,19.0,133.0,True,True,True,True
+San Pablo,21.0,17.0,112.0,True,True,True,True
+Cazadero,0.0,0.0,0.0,False,False,False,False
+Suisun City,4.0,3.0,5.0,True,True,True,True
+Guerneville,6.0,1.0,26.0,True,True,True,True
+Bay Point,2.0,5.0,37.0,True,True,True,True
+Vallejo,55.0,24.0,210.0,True,True,True,True
+Emeryville,60.0,8.0,80.0,True,True,True,True
+Rio Vista,2.0,1.0,42.0,True,True,True,True

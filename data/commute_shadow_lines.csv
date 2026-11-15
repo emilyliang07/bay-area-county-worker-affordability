@@ -1,0 +1,64 @@
+persona,work_city,work_lat,work_lon,home_city,home_lat,home_lon,miles,persona_median_hourly
+911 Dispatchers,San Francisco,37.778447,-122.411084,San Pablo,37.951738,-122.329394,12.8,41.99
+911 Dispatchers,San Jose,37.334882,-121.906514,Castro Valley,37.688535,-122.062926,25.9,41.99
+911 Dispatchers,Oakland,37.806296,-122.265455,San Leandro,37.718354,-122.149295,8.8,41.99
+911 Dispatchers,Redwood City,37.488253,-122.228568,San Lorenzo,37.691532,-122.11747,15.3,41.99
+911 Dispatchers,San Rafael,38.007492,-122.533885,San Pablo,37.951738,-122.329394,11.8,41.99
+911 Dispatchers,Santa Rosa,38.449558,-122.716674,Rohnert Park,38.346764,-122.70462,7.1,41.99
+911 Dispatchers,Napa,38.301389,-122.283671,Sonoma,38.296279,-122.479332,10.6,41.99
+911 Dispatchers,Fairfield,38.264672,-122.047351,Fairfield,38.264672,-122.047351,0.0,41.99
+911 Dispatchers,Martinez,37.996002,-122.123328,Martinez,37.996002,-122.123328,0.0,41.99
+Bus/Transit Operators,San Francisco,37.778447,-122.411084,None in 59 cities,,,,31.25
+Bus/Transit Operators,San Jose,37.334882,-121.906514,None in 59 cities,,,,31.25
+Bus/Transit Operators,Oakland,37.806296,-122.265455,None in 59 cities,,,,31.25
+Bus/Transit Operators,Redwood City,37.488253,-122.228568,None in 59 cities,,,,31.25
+Bus/Transit Operators,San Rafael,38.007492,-122.533885,None in 59 cities,,,,31.25
+Bus/Transit Operators,Santa Rosa,38.449558,-122.716674,None in 59 cities,,,,31.25
+Bus/Transit Operators,Napa,38.301389,-122.283671,None in 59 cities,,,,31.25
+Bus/Transit Operators,Fairfield,38.264672,-122.047351,None in 59 cities,,,,31.25
+Bus/Transit Operators,Martinez,37.996002,-122.123328,None in 59 cities,,,,31.25
+Law Enforcement,San Francisco,37.778447,-122.411084,Daly City,37.696826,-122.47902,6.8,58.4
+Law Enforcement,San Jose,37.334882,-121.906514,Campbell,37.282837,-121.937909,4.0,58.4
+Law Enforcement,Oakland,37.806296,-122.265455,Oakland,37.806296,-122.265455,0.0,58.4
+Law Enforcement,Redwood City,37.488253,-122.228568,Newark,37.527474,-122.035255,10.9,58.4
+Law Enforcement,San Rafael,38.007492,-122.533885,San Rafael,38.007492,-122.533885,0.0,58.4
+Law Enforcement,Santa Rosa,38.449558,-122.716674,Santa Rosa,38.449558,-122.716674,0.0,58.4
+Law Enforcement,Napa,38.301389,-122.283671,Napa,38.301389,-122.283671,0.0,58.4
+Law Enforcement,Fairfield,38.264672,-122.047351,Fairfield,38.264672,-122.047351,0.0,58.4
+Law Enforcement,Martinez,37.996002,-122.123328,Martinez,37.996002,-122.123328,0.0,58.4
+Librarians,San Francisco,37.778447,-122.411084,Pinole,38.004838,-122.301692,16.7,34.77
+Librarians,San Jose,37.334882,-121.906514,Oakley,38.00284,-121.737639,47.1,34.77
+Librarians,Oakland,37.806296,-122.265455,Pinole,38.004838,-122.301692,13.9,34.77
+Librarians,Redwood City,37.488253,-122.228568,Pinole,38.004838,-122.301692,35.9,34.77
+Librarians,San Rafael,38.007492,-122.533885,Pinole,38.004838,-122.301692,12.6,34.77
+Librarians,Santa Rosa,38.449558,-122.716674,Pinole,38.004838,-122.301692,38.1,34.77
+Librarians,Napa,38.301389,-122.283671,Pinole,38.004838,-122.301692,20.5,34.77
+Librarians,Fairfield,38.264672,-122.047351,Pinole,38.004838,-122.301692,22.7,34.77
+Librarians,Martinez,37.996002,-122.123328,Pinole,38.004838,-122.301692,9.7,34.77
+Nurses,San Francisco,37.778447,-122.411084,Daly City,37.696826,-122.47902,6.8,70.41
+Nurses,San Jose,37.334882,-121.906514,San Jose,37.334882,-121.906514,0.0,70.41
+Nurses,Oakland,37.806296,-122.265455,Oakland,37.806296,-122.265455,0.0,70.41
+Nurses,Redwood City,37.488253,-122.228568,Belmont,37.5213005,-122.278092,3.5,70.41
+Nurses,San Rafael,38.007492,-122.533885,San Rafael,38.007492,-122.533885,0.0,70.41
+Nurses,Santa Rosa,38.449558,-122.716674,Santa Rosa,38.449558,-122.716674,0.0,70.41
+Nurses,Napa,38.301389,-122.283671,Napa,38.301389,-122.283671,0.0,70.41
+Nurses,Fairfield,38.264672,-122.047351,Fairfield,38.264672,-122.047351,0.0,70.41
+Nurses,Martinez,37.996002,-122.123328,Martinez,37.996002,-122.123328,0.0,70.41
+Social Workers,San Francisco,37.778447,-122.411084,San Pablo,37.951738,-122.329394,12.8,39.83
+Social Workers,San Jose,37.334882,-121.906514,San Lorenzo,37.691532,-122.11747,27.2,39.83
+Social Workers,Oakland,37.806296,-122.265455,San Pablo,37.951738,-122.329394,10.6,39.83
+Social Workers,Redwood City,37.488253,-122.228568,San Lorenzo,37.691532,-122.11747,15.3,39.83
+Social Workers,San Rafael,38.007492,-122.533885,San Pablo,37.951738,-122.329394,11.8,39.83
+Social Workers,Santa Rosa,38.449558,-122.716674,Vallejo,38.111374,-122.245828,34.6,39.83
+Social Workers,Napa,38.301389,-122.283671,Vallejo,38.111374,-122.245828,13.3,39.83
+Social Workers,Fairfield,38.264672,-122.047351,Suisun City,38.251255,-122.019646,1.8,39.83
+Social Workers,Martinez,37.996002,-122.123328,Concord,37.970616,-122.036102,5.1,39.83
+Teachers,San Francisco,37.778447,-122.411084,None in 59 cities,,,,30.02
+Teachers,San Jose,37.334882,-121.906514,None in 59 cities,,,,30.02
+Teachers,Oakland,37.806296,-122.265455,None in 59 cities,,,,30.02
+Teachers,Redwood City,37.488253,-122.228568,None in 59 cities,,,,30.02
+Teachers,San Rafael,38.007492,-122.533885,None in 59 cities,,,,30.02
+Teachers,Santa Rosa,38.449558,-122.716674,None in 59 cities,,,,30.02
+Teachers,Napa,38.301389,-122.283671,None in 59 cities,,,,30.02
+Teachers,Fairfield,38.264672,-122.047351,None in 59 cities,,,,30.02
+Teachers,Martinez,37.996002,-122.123328,None in 59 cities,,,,30.02
