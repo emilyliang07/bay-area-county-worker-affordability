@@ -4,7 +4,7 @@
 ## Project Links
 - **Live Tableau Public Dashboard:** https://public.tableau.com/app/profile/adam.myat6508/viz/Datathon2026CanCountyWorkersAffordtoLiveHere/FLIPPAYSLIDE
 - **Slideshow Presentation:** https://canva.link/jnfzet5qxbsypy8
-- **Video Overview (≤ 5 min):** [video link]
+- **Video Overview (≤ 5 min):** https://www.youtube.com/watch?v=H1Uh1BHjdo0
 
 ## Essential Question
 Can Bay Area public-sector workers—teachers, nurses, sheriff's deputies/law enforcement, bus/transit operators, social workers, librarians, and 911 dispatchers—afford to live in the communities they serve?
